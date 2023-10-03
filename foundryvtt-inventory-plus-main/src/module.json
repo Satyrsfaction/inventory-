@@ -90,7 +90,7 @@
     "maximum": 11
   },
   "manifestPlusVersion": "1.2.0",
-  "url": "https://github.com/p4535992/foundryvtt-inventory-plus",
+  "url": "https://github.com/Satyrsfaction/inventory-",
   "manifest": "https://raw.githubusercontent.com/Satyrsfaction/inventory-/main/foundryvtt-inventory-plus-main/src/module.json",
   "download": "https://github.com/Satyrsfaction/inventory-/releases/download/0.6.24/module.zip",
   "readme": "https://github.com/Satyrsfaction/inventory-/blob/master/README.md",
