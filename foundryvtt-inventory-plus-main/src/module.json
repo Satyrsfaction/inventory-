@@ -104,7 +104,7 @@
         "type": "system",
         "compatibility": {
           "minimum": "2.1.0",
-          "verified": "2.1.0"
+          "verified": "2.3.1"
         }
       },
       {
